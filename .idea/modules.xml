@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirstjavaWeb.iml" filepath="$PROJECT_DIR$/FirstjavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dom4JStudy.iml" filepath="$PROJECT_DIR$/Dom4JStudy.iml" />
     </modules>
   </component>
 </project>
